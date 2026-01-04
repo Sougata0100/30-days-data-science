@@ -86,5 +86,5 @@ I will update this section as I move forward.
 
 If you want to collaborate or give feedback on my learning path or projects, feel free to reach out:
 
-- GitHub: \<your GitHub profile link\>  
-- LinkedIn: \<your LinkedIn profile link\> (optional)
+- GitHub: https://github.com/Sougata0100
+
